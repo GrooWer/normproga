@@ -1,0 +1,13 @@
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\SimpleDataApp.csproj.AssemblyReference.cache
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\SimpleDataApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\SimpleDataApp.csproj.GenerateResource.cache
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\SimpleDataApp.csproj.CoreCompileInputs.cache
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FillOrCancel.resources
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.NewCustomer.resources
+C:\Users\Sinner-Lap\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Навигация.resources
